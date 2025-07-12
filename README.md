@@ -1,4 +1,4 @@
-# Weather Image Classification using Image Embeddings and Random Forest
+# Weather Image Classification 
 
 This project demonstrates how to classify weather-related images (e.g., sunny, rainy, cloudy) using image embeddings generated with `img2vec-pytorch` and a Random Forest Classifier.
 
