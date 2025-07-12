@@ -22,3 +22,16 @@ Install dependencies using:
 ```bash
 pip install img2vec-pytorch scikit-learn opencv-python pillow
 
+Make sure your dataset is placed in the following structure:
+
+data/
+└── wether_dataset/
+    ├── train/
+    │   ├── sunny/
+    │   ├── rainy/
+    │   └── ...
+    └── val/
+        ├── sunny/
+        ├── rainy/
+        └── ...
+
